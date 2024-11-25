@@ -144,7 +144,7 @@ print(find_distance(coords_1, coords_2))  # -> 2
 Пример:
 ```python
 color_1, color_2 = "#3ca832", "#5032a8"
-print(color_averager(color_1, color_2))  # -> #466d6d
+print(color_averager(color_1, color_2))  # -> #467b7b
 ```
 
 

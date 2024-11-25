@@ -8,6 +8,6 @@ def rgb_to_hex(rgb):
     return ...
 
 # подумайте, как функция должна принимать аргументы, если она должна работать для любого числа цветов > 1
-def average_colors():
+def color_averager():
     return ...
 

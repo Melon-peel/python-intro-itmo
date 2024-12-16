@@ -1,0 +1,11 @@
+[server]
+host = localhost
+port = 8080
+ssl = false
+
+[empty section]
+
+[database]
+name = mydb
+username = myuser
+password = mypassword

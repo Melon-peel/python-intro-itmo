@@ -57,7 +57,7 @@ class Test1Results:
 
 # Пример использования
 if __name__ == "__main__":
-    test_results = Test1Results("grades.xlsx", ...)  # попробуйте любой номер ИСУ из доступных в таблице
+    test_results = Test1Results("test_1.xlsx", ...)  # попробуйте любой номер ИСУ из доступных в таблице
 
     print(f"Grade for student {test_results.student_id}: {test_results.grade}")
 

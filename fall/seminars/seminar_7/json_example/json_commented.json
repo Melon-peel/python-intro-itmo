@@ -1,0 +1,12 @@
+{
+  "name": "Alice",
+  "20": "was int",
+  "age": 25,
+  "is_student": false,
+  "None_value": null,
+  "float_value": 2.222,
+  "skills": [  // a list of user's skills
+    "Python",
+    "Data Analysis"
+  ]
+}

@@ -24,7 +24,7 @@ class TeaCup:
     def __init__(self):
         self.sweetness = 0
         self.fullness = 0
-        self.tea = 0
+        self.tea = None
 
     def pour_water(self, amount=None):
         ...

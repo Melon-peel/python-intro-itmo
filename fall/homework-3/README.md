@@ -13,7 +13,7 @@
 
 #### Пример вызова:
 ```
-time_until_new_year()
+print(time_until_new_year())
 ```
 
 Вывод:

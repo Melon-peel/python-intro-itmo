@@ -2,3 +2,5 @@
 .ipynb_checkpoint
 .virtual_documents
 .env
+*.ipynb_checkpoint
+*.ipynb_checkpoints
